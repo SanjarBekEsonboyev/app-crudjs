@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ae4f9d6-901e-4cc8-b856-5fddf997455f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="25k4Dg9MSyAhDUusTw3dCEyGzSy" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson-48" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ae4f9d6-901e-4cc8-b856-5fddf997455f" name="Default Changelist" comment="" />
+      <created>1646057632436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646057632436</updated>
+      <workItem from="1646057633861" duration="1517000" />
+      <workItem from="1646059179773" duration="1782000" />
+      <workItem from="1646061067127" duration="1782000" />
+      <workItem from="1646195134773" duration="1774000" />
+      <workItem from="1646196948810" duration="1784000" />
+      <workItem from="1646198772493" duration="1448000" />
+      <workItem from="1646200615167" duration="1481000" />
+      <workItem from="1646202882385" duration="1713000" />
+      <workItem from="1646204690609" duration="1824000" />
+      <workItem from="1646206551890" duration="1550000" />
+      <workItem from="1646218304412" duration="1779000" />
+      <workItem from="1646220133402" duration="1783000" />
+      <workItem from="1646221954133" duration="1781000" />
+      <workItem from="1646223774100" duration="1913000" />
+      <workItem from="1646225794462" duration="1922000" />
+      <workItem from="1646230058332" duration="742000" />
+      <workItem from="1646405072953" duration="2361000" />
+      <workItem from="1646469102479" duration="1059000" />
+      <workItem from="1646470750052" duration="760000" />
+      <workItem from="1646559563442" duration="7204000" />
+      <workItem from="1646633641261" duration="4033000" />
+      <workItem from="1646666408346" duration="2491000" />
+      <workItem from="1646808256720" duration="2886000" />
+      <workItem from="1646830371953" duration="608000" />
+      <workItem from="1647184704492" duration="4821000" />
+      <workItem from="1647251588016" duration="5287000" />
+      <workItem from="1647267914967" duration="211000" />
+      <workItem from="1649674605227" duration="816000" />
+      <workItem from="1649685763496" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Bootstrap/Bootstrap/js/main.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
